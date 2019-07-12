@@ -1,6 +1,6 @@
 package com.zipcodewilmington.bakery.models;
 
-import org.springframework.data.annotation.Id;
+import javax.persistence.Id;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
